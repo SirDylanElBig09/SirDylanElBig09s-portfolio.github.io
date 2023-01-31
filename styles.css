@@ -91,6 +91,7 @@ body {
     margin: 1em;
     border-radius: 1em;
     max-width: 400px;
+    max-height: 400px;
 }
 .media_video {
     padding-top: 2em;
