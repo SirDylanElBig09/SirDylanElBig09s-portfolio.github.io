@@ -87,9 +87,11 @@ body {
 }
 .media_img img {
     width: 400px;
+    height: 400px;
     margin: 1em;
     border-radius: 1em;
     max-width: 400px;
+    max-height: 400px;
 }
 .media_video {
     padding-top: 2em;
